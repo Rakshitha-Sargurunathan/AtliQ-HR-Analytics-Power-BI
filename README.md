@@ -8,12 +8,12 @@ AtliQ Hardware, with multiple branches across India, provides computer hardware 
 As a data analyst, to solve the problem of analyzing employee attendance and presence for HR, developing BI dashboard can help in identifying trends, patterns, and issues that could impact the company's productivity and profitability.
 
 ## Data
-We are provided with the Excel datasheet which contains the employees data for 3 months between April 2022-June 2022. Data set contains employees attendance data along with attendance keys Eg: SL --> Sick Leave.
+We are provided with the Excel datasheet which contains the employees data for 3 months between April 2022-June 2022. Data set contains employees attendance data along with attendance keys Eg: SL- Sick Leave , WFH- Work From Home , PL - Paid Leave
 
 ## Task
-Find Total Employees Attendance %, Sick Leave % and Work from home %
-Find the trends for it over time
-Analyzing the same trends in week days
+* Find Total Employees Attendance %, Sick Leave % and Work from home %
+* Find the trends for it over time
+* Analyzing the same trends in week days
 
 ## Insights
 There is a slight decrease in employees attendance over time
