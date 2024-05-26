@@ -16,12 +16,12 @@ We are provided with the Excel datasheet which contains the employees data for 3
 * Analyzing the same trends in week days
 
 ## Insights
-There is a slight decrease in employees attendance over time
-There is an increase in the trend where people opted for Work from home
-There is an slight increase in the Sick leave trend over time
-Most people attended office on Tuesdays
-Most people opted for Work from home on Fridays
-Most people took sick leaves on Mondays
+* There is a slight decrease in employees attendance over time
+* There is an increase in the trend where people opted for Work from home
+* There is an slight increase in the Sick leave trend over time
+* Most people attended office on Tuesdays
+* Most people opted for Work from home on Fridays
+* Most people took sick leaves on Mondays
 
 ## References:
-https://www.youtube.com/watch?v=ru1qeDO_qrc&list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM&index=1
+* https://www.youtube.com/watch?v=ru1qeDO_qrc&list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM&index=1
